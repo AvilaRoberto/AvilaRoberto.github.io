@@ -1,3 +1,3 @@
 # AvilaRoberto.github.io
 
-Experimenting with maknig a website.
+Experimenting with making a website.
