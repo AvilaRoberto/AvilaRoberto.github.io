@@ -6,11 +6,27 @@ body {
 	background-color: #FA8072;
 }
 
+.container {
+	display: flex;
+}
+
 .nav {
 	background-color: #CD5C5C;
-	margin: 50px;
-	padding: 1px 10px;
+	margin: 5px;
 }
+
+.nav-item {
+	background-color: #C94F4F; 
+	list-style: none;
+	width: 100px;
+	height: 50px;
+	margin-top: 10px;
+	padding: 10px;
+
+	vertical-align: center;
+	text-align: center;
+}
+
 
 
 
